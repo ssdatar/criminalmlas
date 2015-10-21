@@ -1,5 +1,13 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700,400italic);
+
+
+body{
+    font-family: "Lato", "Helvetica Neue", Arial;
+}
+
 h1{
-    font-size: 32px;
+    font-size: 42px;
+    margin-bottom: 1.3em;
 }
 
 
