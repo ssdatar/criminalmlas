@@ -16,9 +16,6 @@ h1{
 
 }
 
-
-
-
 #info_box .party-name{
 
 }
@@ -38,9 +35,6 @@ h1{
 }
 
 
-
-
-
 @media (max-width: 768px) {
     #legend{
         display: none;
@@ -48,19 +42,9 @@ h1{
 }
 
 
-
-#the-map{
-
-}
-
 #map-container{
     padding-top: 2.0em;
 }
-
-
-
-
-
 
 .party-item{
     border-left: solid 14px;
@@ -68,12 +52,7 @@ h1{
     margin-bottom: 0.5em;
 }
 
-.party-name{
-    border-left: solid 10px;
-    margin-bottom: 2px;
-    margin-top: 0;
-    padding-left: 5px;
-}
+
 
 
 .text-stuff{
@@ -87,14 +66,3 @@ h1{
     width: 850px;
   }
 }
-
-
-
-
-
-
-
-
-
-
-
