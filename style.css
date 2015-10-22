@@ -1,0 +1,68 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700,400italic);
+
+
+body{
+    font-family: "Lato", "Helvetica Neue", Arial;
+}
+
+h1{
+    font-size: 42px;
+    margin-bottom: 1.3em;
+}
+
+
+#info_box{
+    height: 230px;
+
+}
+
+#info_box .party-name{
+
+}
+
+#info_table{
+    width: 100%;
+    font-size: 0.9em;
+
+}
+
+
+#info_table td.name{
+}
+
+#info_table td.value{
+    text-align: right;
+}
+
+
+@media (max-width: 768px) {
+    #legend{
+        display: none;
+    }
+}
+
+
+#map-container{
+    padding-top: 2.0em;
+}
+
+.party-item{
+    border-left: solid 14px;
+    padding-left: 5px;
+    margin-bottom: 0.5em;
+}
+
+
+
+
+.text-stuff{
+    margin-bottom: 1.0em;
+}
+
+
+
+@media (min-width: 992px) {
+  .container {
+    width: 850px;
+  }
+}
