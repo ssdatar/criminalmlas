@@ -16,18 +16,14 @@ h1{
 
 }
 
-#info_box .party-name{
-
-}
-
 #info_table{
     width: 100%;
     font-size: 0.9em;
 
 }
 
-
 #info_table td.name{
+    text-align: left !important;
 }
 
 #info_table td.value{
@@ -43,7 +39,7 @@ h1{
 
 
 #map-container{
-    padding-top: 2.0em;
+    padding-top: 1.0em;
 }
 
 .party-item{
@@ -52,14 +48,23 @@ h1{
     margin-bottom: 0.5em;
 }
 
-
-
+.mumbai: hover {
+    cursor: pointer;
+    fill-opacity: 0.4;
+}
 
 .text-stuff{
     margin-bottom: 1.0em;
 }
 
-
+table,
+thead,
+tr,
+tbody,
+th,
+td {
+    text-align: center;
+}
 
 @media (min-width: 992px) {
   .container {
