@@ -57,6 +57,10 @@ h1{
     margin-bottom: 1.0em;
 }
 
+.table-responsive {
+    overflow-x: auto;
+}
+
 table,
 thead,
 tr,
