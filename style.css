@@ -10,6 +10,9 @@ h1{
     margin-bottom: 1.3em;
 }
 
+.mumbai: hover {
+    opacity: 0.5;
+}
 
 #info_box{
     height: 230px;
