@@ -11,7 +11,9 @@ h1{
 }
 
 .mumbai: hover {
+    cursor: pointer;
     opacity: 0.5;
+    
 }
 
 
